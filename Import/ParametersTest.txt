@@ -1,0 +1,14 @@
+d0 = 1.27
+Wv = 5
+U = 0
+Sbros = 1
+Pg = 0
+t = 20
+P = 760
+fi = 60
+jeg = 0
+a = 1
+type = 1
+Hb = 15
+Hr = 0
+La = 0
